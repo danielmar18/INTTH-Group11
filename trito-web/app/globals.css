@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-image: linear-gradient(to right bottom, #0b0b0b, #0c0c0c, #0d0d0d, #0e0e0e, #0f0f0f, #101010, #111111, #121212, #141414, #151515, #171717, #181818);
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

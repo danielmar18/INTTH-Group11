@@ -1,0 +1,1332 @@
+[
+    {
+        "humidity": 54.148963928222656,
+        "_creationTime": 1716380669824,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.93931579589844,
+        "_creationTime": 1716380670845,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.01947784423828,
+        "_creationTime": 1716380671857,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.27337646484375,
+        "_creationTime": 1716380672872,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.95980453491211,
+        "_creationTime": 1716380673901,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.43369674682617,
+        "_creationTime": 1716380674897,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.30619812011719,
+        "_creationTime": 1716380675932,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.6402587890625,
+        "_creationTime": 1716380676931,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.35552978515625,
+        "_creationTime": 1716380677965,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.50659942626953,
+        "_creationTime": 1716380678965,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.79640197753906,
+        "_creationTime": 1716380679982,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 51.99391174316406,
+        "_creationTime": 1716380680996,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.01947784423828,
+        "_creationTime": 1716380682021,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.661842346191406,
+        "_creationTime": 1716380683053,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.865325927734375,
+        "_creationTime": 1716380684047,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.94856262207031,
+        "_creationTime": 1716380685059,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.84374237060547,
+        "_creationTime": 1716380686086,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.130462646484375,
+        "_creationTime": 1716380687085,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.93315124511719,
+        "_creationTime": 1716380688104,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.35244369506836,
+        "_creationTime": 1716380689137,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.17054748535156,
+        "_creationTime": 1716380690135,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.85915756225586,
+        "_creationTime": 1716380691156,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.17054748535156,
+        "_creationTime": 1716380692163,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.526187896728516,
+        "_creationTime": 1716380693180,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.15821075439453,
+        "_creationTime": 1716380694194,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.991729736328125,
+        "_creationTime": 1716380695208,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 52.93732452392578,
+        "_creationTime": 1716380696228,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.65259552001953,
+        "_creationTime": 1716380697242,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.238372802734375,
+        "_creationTime": 1716380698255,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.250701904296875,
+        "_creationTime": 1716380699288,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.51276397705078,
+        "_creationTime": 1716380700297,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.201377868652344,
+        "_creationTime": 1716380701300,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.30003356933594,
+        "_creationTime": 1716380702317,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.17671203613281,
+        "_creationTime": 1716380703335,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.248714447021484,
+        "_creationTime": 1716380704393,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.21479797363281,
+        "_creationTime": 1716380705362,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.56935119628906,
+        "_creationTime": 1716380706408,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.31544876098633,
+        "_creationTime": 1716380707511,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.96398162841797,
+        "_creationTime": 1716380708437,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.241455078125,
+        "_creationTime": 1716380709459,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.29695129394531,
+        "_creationTime": 1716380710495,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.80982971191406,
+        "_creationTime": 1716380711521,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.516937255859375,
+        "_creationTime": 1716380712562,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 55.194114685058594,
+        "_creationTime": 1716380713570,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.92081832885742,
+        "_creationTime": 1716380714602,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.22603988647461,
+        "_creationTime": 1716380715623,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.16746139526367,
+        "_creationTime": 1716380716633,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.58784866333008,
+        "_creationTime": 1716380717893,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.973228454589844,
+        "_creationTime": 1716380718662,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.263038635253906,
+        "_creationTime": 1716380719679,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.71733856201172,
+        "_creationTime": 1716380720702,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.16746139526367,
+        "_creationTime": 1716380721716,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.98138427734375,
+        "_creationTime": 1716380722724,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.766666412353516,
+        "_creationTime": 1716380723746,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.76974868774414,
+        "_creationTime": 1716380724772,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.31544876098633,
+        "_creationTime": 1716380725824,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.16437911987305,
+        "_creationTime": 1716380726804,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.982479095458984,
+        "_creationTime": 1716380727810,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.081138610839844,
+        "_creationTime": 1716380728838,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.16746139526367,
+        "_creationTime": 1716380729839,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.69267272949219,
+        "_creationTime": 1716380730873,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.982479095458984,
+        "_creationTime": 1716380731864,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.967063903808594,
+        "_creationTime": 1716380732884,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.646427154541016,
+        "_creationTime": 1716380733903,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.250701904296875,
+        "_creationTime": 1716380734910,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.33195495605469,
+        "_creationTime": 1716380735930,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.118133544921875,
+        "_creationTime": 1716380736942,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.495357513427734,
+        "_creationTime": 1716380737966,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.80674743652344,
+        "_creationTime": 1716380738971,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.111968994140625,
+        "_creationTime": 1716380740000,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.54667663574219,
+        "_creationTime": 1716380740998,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.36785888671875,
+        "_creationTime": 1716380742018,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.022560119628906,
+        "_creationTime": 1716380743058,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.124298095703125,
+        "_creationTime": 1716380744064,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.111968994140625,
+        "_creationTime": 1716380745070,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.54667663574219,
+        "_creationTime": 1716380746089,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.63916778564453,
+        "_creationTime": 1716380747097,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.18287658691406,
+        "_creationTime": 1716380748122,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.46343231201172,
+        "_creationTime": 1716380749301,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.43260192871094,
+        "_creationTime": 1716380750135,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.05030822753906,
+        "_creationTime": 1716380751177,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.33702850341797,
+        "_creationTime": 1716380752173,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.4110221862793,
+        "_creationTime": 1716380753185,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.28770065307617,
+        "_creationTime": 1716380754236,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.77899932861328,
+        "_creationTime": 1716380755216,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.89923858642578,
+        "_creationTime": 1716380756248,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.54975891113281,
+        "_creationTime": 1716380757261,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.31962585449219,
+        "_creationTime": 1716380758297,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.01639175415039,
+        "_creationTime": 1716380759348,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.04413986206055,
+        "_creationTime": 1716380760296,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.232208251953125,
+        "_creationTime": 1716380761308,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 55.302024841308594,
+        "_creationTime": 1716380762324,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.081138610839844,
+        "_creationTime": 1716380763340,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.207542419433594,
+        "_creationTime": 1716380764465,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.788246154785156,
+        "_creationTime": 1716380765405,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.30003356933594,
+        "_creationTime": 1716380766394,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.14588165283203,
+        "_creationTime": 1716380767501,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 55.03071594238281,
+        "_creationTime": 1716380768445,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.29695129394531,
+        "_creationTime": 1716380769451,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.087303161621094,
+        "_creationTime": 1716380770501,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.867313385009766,
+        "_creationTime": 1716380771527,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.133548736572266,
+        "_creationTime": 1716380772548,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.69267272949219,
+        "_creationTime": 1716380773572,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.82524108886719,
+        "_creationTime": 1716380774607,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 55.40684509277344,
+        "_creationTime": 1716380775630,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.244537353515625,
+        "_creationTime": 1716380776646,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.12738037109375,
+        "_creationTime": 1716380777660,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.29804229736328,
+        "_creationTime": 1716380778684,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.82215881347656,
+        "_creationTime": 1716380779699,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.19520950317383,
+        "_creationTime": 1716380780718,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.232208251953125,
+        "_creationTime": 1716380781727,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.997894287109375,
+        "_creationTime": 1716380782751,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.42951965332031,
+        "_creationTime": 1716380783752,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.6279296875,
+        "_creationTime": 1716380784773,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.18595886230469,
+        "_creationTime": 1716380785787,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.3165397644043,
+        "_creationTime": 1716380786800,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.960899353027344,
+        "_creationTime": 1716380787822,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.232208251953125,
+        "_creationTime": 1716380788831,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.370941162109375,
+        "_creationTime": 1716380789845,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.34627914428711,
+        "_creationTime": 1716380790869,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.227134704589844,
+        "_creationTime": 1716380791898,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.69883728027344,
+        "_creationTime": 1716380792910,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.93623352050781,
+        "_creationTime": 1716380793911,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.460350036621094,
+        "_creationTime": 1716380794943,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.448020935058594,
+        "_creationTime": 1716380795942,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.01947784423828,
+        "_creationTime": 1716380796966,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.29695129394531,
+        "_creationTime": 1716380797972,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.29695129394531,
+        "_creationTime": 1716380798986,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.46343231201172,
+        "_creationTime": 1716380800044,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.69267272949219,
+        "_creationTime": 1716380801084,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.68650817871094,
+        "_creationTime": 1716380802040,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.64950942993164,
+        "_creationTime": 1716380803088,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.763580322265625,
+        "_creationTime": 1716380804068,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.78516387939453,
+        "_creationTime": 1716380805159,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.599090576171875,
+        "_creationTime": 1716380806113,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.54051208496094,
+        "_creationTime": 1716380807158,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.370941162109375,
+        "_creationTime": 1716380808126,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.201377868652344,
+        "_creationTime": 1716380809149,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.14588165283203,
+        "_creationTime": 1716380810154,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.4942626953125,
+        "_creationTime": 1716380811237,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.95781707763672,
+        "_creationTime": 1716380812188,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.093467712402344,
+        "_creationTime": 1716380813212,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.599090576171875,
+        "_creationTime": 1716380814219,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.245628356933594,
+        "_creationTime": 1716380815236,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.469600677490234,
+        "_creationTime": 1716380816268,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.47576904296875,
+        "_creationTime": 1716380817267,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.44185256958008,
+        "_creationTime": 1716380818283,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.07805252075195,
+        "_creationTime": 1716380819300,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.269203186035156,
+        "_creationTime": 1716380820311,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.327781677246094,
+        "_creationTime": 1716380821339,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.68233108520508,
+        "_creationTime": 1716380822346,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.69267272949219,
+        "_creationTime": 1716380823373,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.846824645996094,
+        "_creationTime": 1716380824393,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.05030822753906,
+        "_creationTime": 1716380825399,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.26612091064453,
+        "_creationTime": 1716380826401,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.11505126953125,
+        "_creationTime": 1716380827618,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.17362976074219,
+        "_creationTime": 1716380828443,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.96398162841797,
+        "_creationTime": 1716380829509,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.47069549560547,
+        "_creationTime": 1716380830495,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.17671203613281,
+        "_creationTime": 1716380831542,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.56626892089844,
+        "_creationTime": 1716380832565,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.34319305419922,
+        "_creationTime": 1716380833604,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.862239837646484,
+        "_creationTime": 1716380834681,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.09654998779297,
+        "_creationTime": 1716380835651,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.281532287597656,
+        "_creationTime": 1716380836676,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.229122161865234,
+        "_creationTime": 1716380837683,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.96398162841797,
+        "_creationTime": 1716380838693,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.6279296875,
+        "_creationTime": 1716380839714,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.16746139526367,
+        "_creationTime": 1716380840723,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.35244369506836,
+        "_creationTime": 1716380841746,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.84990692138672,
+        "_creationTime": 1716380842770,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.72350311279297,
+        "_creationTime": 1716380843768,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.259952545166016,
+        "_creationTime": 1716380844803,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.395606994628906,
+        "_creationTime": 1716380845798,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.4367790222168,
+        "_creationTime": 1716380846820,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.3997802734375,
+        "_creationTime": 1716380847835,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.028724670410156,
+        "_creationTime": 1716380848844,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.62176513671875,
+        "_creationTime": 1716380849862,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.606346130371094,
+        "_creationTime": 1716380850878,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 55.573333740234375,
+        "_creationTime": 1716380851894,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.51892852783203,
+        "_creationTime": 1716380852906,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.40793991088867,
+        "_creationTime": 1716380853919,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.51385498046875,
+        "_creationTime": 1716380854939,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 55.076961517333984,
+        "_creationTime": 1716380855955,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 52.656768798828125,
+        "_creationTime": 1716380856970,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.213706970214844,
+        "_creationTime": 1716380857987,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.87457275390625,
+        "_creationTime": 1716380858999,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.46343231201172,
+        "_creationTime": 1716380860020,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.340110778808594,
+        "_creationTime": 1716380861031,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.51892852783203,
+        "_creationTime": 1716380862050,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.82215881347656,
+        "_creationTime": 1716380863079,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.491180419921875,
+        "_creationTime": 1716380864079,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 52.567359924316406,
+        "_creationTime": 1716380865087,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.148963928222656,
+        "_creationTime": 1716380866104,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.32161331176758,
+        "_creationTime": 1716380867128,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.83340072631836,
+        "_creationTime": 1716380868143,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.25687026977539,
+        "_creationTime": 1716380869158,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.40793991088867,
+        "_creationTime": 1716380870167,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.11505126953125,
+        "_creationTime": 1716380871192,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.661842346191406,
+        "_creationTime": 1716380872218,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.03180694580078,
+        "_creationTime": 1716380873219,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.78407287597656,
+        "_creationTime": 1716380874232,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.36785888671875,
+        "_creationTime": 1716380875250,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.85915756225586,
+        "_creationTime": 1716380876275,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.81599426269531,
+        "_creationTime": 1716380877298,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.960899353027344,
+        "_creationTime": 1716380878299,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.674171447753906,
+        "_creationTime": 1716380879312,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.04105758666992,
+        "_creationTime": 1716380880349,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.17979431152344,
+        "_creationTime": 1716380881342,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.68959045410156,
+        "_creationTime": 1716380882368,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 52.860252380371094,
+        "_creationTime": 1716380883378,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.75324249267578,
+        "_creationTime": 1716380884403,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.61867904663086,
+        "_creationTime": 1716380885417,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.2537841796875,
+        "_creationTime": 1716380886538,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.18904113769531,
+        "_creationTime": 1716380887494,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.65259552001953,
+        "_creationTime": 1716380888468,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.896156311035156,
+        "_creationTime": 1716380889509,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.09038543701172,
+        "_creationTime": 1716380890584,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.852989196777344,
+        "_creationTime": 1716380891663,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.004058837890625,
+        "_creationTime": 1716380892578,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.281532287597656,
+        "_creationTime": 1716380893606,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.10381317138672,
+        "_creationTime": 1716380894663,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.967063903808594,
+        "_creationTime": 1716380895663,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.80366134643555,
+        "_creationTime": 1716380896678,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.30311584472656,
+        "_creationTime": 1716380897694,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.69883728027344,
+        "_creationTime": 1716380898708,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.3616943359375,
+        "_creationTime": 1716380899722,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.85607147216797,
+        "_creationTime": 1716380900737,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.96398162841797,
+        "_creationTime": 1716380901768,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.62176513671875,
+        "_creationTime": 1716380902770,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.56935119628906,
+        "_creationTime": 1716380903783,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.4110221862793,
+        "_creationTime": 1716380904804,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.840660095214844,
+        "_creationTime": 1716380905816,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.03180694580078,
+        "_creationTime": 1716380906856,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.45219421386719,
+        "_creationTime": 1716380907846,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.960899353027344,
+        "_creationTime": 1716380908865,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.32469940185547,
+        "_creationTime": 1716380909884,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.877655029296875,
+        "_creationTime": 1716380910911,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.605255126953125,
+        "_creationTime": 1716380911906,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.788246154785156,
+        "_creationTime": 1716380912922,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.21678924560547,
+        "_creationTime": 1716380913949,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.94856262207031,
+        "_creationTime": 1716380914965,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.10580062866211,
+        "_creationTime": 1716380915969,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.10580062866211,
+        "_creationTime": 1716380916984,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.44602966308594,
+        "_creationTime": 1716380918013,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.63300323486328,
+        "_creationTime": 1716380919016,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.18595886230469,
+        "_creationTime": 1716380920034,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 53.661842346191406,
+        "_creationTime": 1716380921044,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.81182098388672,
+        "_creationTime": 1716380922063,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.90739440917969,
+        "_creationTime": 1716380923090,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.358612060546875,
+        "_creationTime": 1716380924091,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.972137451171875,
+        "_creationTime": 1716380925106,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.87348175048828,
+        "_creationTime": 1716380926129,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 55.483924865722656,
+        "_creationTime": 1716380927138,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 55.573333740234375,
+        "_creationTime": 1716380928164,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 55.483924865722656,
+        "_creationTime": 1716380929172,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 55.181785583496094,
+        "_creationTime": 1716380930178,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 55.59799575805664,
+        "_creationTime": 1716380931209,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 55.71823501586914,
+        "_creationTime": 1716380932221,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 55.616493225097656,
+        "_creationTime": 1716380933237,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 56.18069076538086,
+        "_creationTime": 1716380934246,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 54.876564025878906,
+        "_creationTime": 1716380935260,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 56.10669708251953,
+        "_creationTime": 1716380936276,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 56.041954040527344,
+        "_creationTime": 1716380937300,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 56.14677810668945,
+        "_creationTime": 1716380938316,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    },
+    {
+        "humidity": 56.38108825683594,
+        "_creationTime": 1716380939319,
+        "deviceId": "j571a1ejhbg100tj6v229rz95s6qyzj3"
+    }
+]
