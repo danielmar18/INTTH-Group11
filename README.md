@@ -3,7 +3,7 @@ This is the project repository for the mini-project in the Internet of Things Te
 
 */interval-analysis* contains the data and source for for the analysis used to determine the measurement interval for each sensor node. It uses Jupyter notebooks as the execution environment, and the data used is on the JSON format.
 
-*/trito-web contains* the implementation of the user interface for the system. Set-up details can be found in the directory.
+*/trito-web* contains the implementation of the user interface for the system. Set-up details can be found in the directory.
 
 */weather-station* contains the Python source code executed on each sensor node. It also contains the bash-scripts used to start and stop the process on respecitve nodes.
 
