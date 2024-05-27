@@ -94,6 +94,7 @@ def main():
   client.connect("mqtt.ably.io", 8883, 60)
   client.loop_start()
   while True:
+    try:
       temp = sense.get_temperature()
       client.publish("/readings/temp", json.dumps({"device":id, "reading": temp}), 1)
       temps.append(temp)
@@ -119,5 +120,12 @@ def main():
 
       print("Published data readings: "+str(len(temps)))
       time.sleep(10)
+    except Exception as e:
+      print(e)
+      if client.is_connected() == False:
+        client.connect("mqtt.ably.io", 8883, 60)
+        client.loop_start()
+      time.sleep(10)
+      continue
 
 main()
