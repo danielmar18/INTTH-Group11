@@ -1,4 +1,4 @@
-# This is the User Interface Implemetation for the Indoor Environmental Monitoring System
+# This is the User Interface Implementation for the Indoor Environmental Monitoring System
 The following instruction are provided automatically by Vercel when a Next.js project is initialized. For further questions please contact project owners.
 
 
