@@ -8,6 +8,9 @@ This is the project repository for the mini-project in the Internet of Things Te
 */weather-station* contains the Python source code executed on each sensor node. It also contains the bash-scripts used to start and stop the process on respecitve nodes.
 
 Project Authors:
+
 Daníel Már Guðmundsson (*202303669@post.au.dk*)
+
 Joakim Schack Betzer (*202200811@post.au.dk*)
+
 Novana Nasir (*202310941@post.au.dk*)
